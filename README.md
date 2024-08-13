@@ -4,7 +4,8 @@ Here's a sample README content for your "Smart Home Appliances Controller" mobil
 
 # Smart Home Appliances Controller
 
-![Smart Home Appliances Controller]()
+![Smart Home Appliances Controller](https://github.com/RachanaKul/Smart-home-appliances-Web-design/blob/main/Smart%20Appliances%20website.pdf)
+Provide format: pdf
 
 ## Overview
 

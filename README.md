@@ -22,14 +22,12 @@ The **Smart Home Appliances Controller** is a mobile application designed to sim
 ## Technologies Used
 
 - **Figma**: For UI/UX design.
-- **React Native**: For mobile app development.
-- **Node.js**: Backend server (if applicable).
-- **JavaScript**: Core programming language.
+
 
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out at [your-email@example.com](rachvaishali@gmail.com).
+For any questions or suggestions, feel free to reach out at (rachvaishali@gmail.com).
 
 ---
 

@@ -4,7 +4,7 @@ Here's a sample README content for your "Smart Home Appliances Controller" mobil
 
 # Smart Home Appliances Controller
 
-![Smart Home Appliances Controller](link-to-your-app-image)
+![Smart Home Appliances Controller]()
 
 ## Overview
 
